@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mud_mod:blocks/.mud_bricks",
+    "particle": "mud_mod:blocks/.mud_bricks"
+  }
+}
