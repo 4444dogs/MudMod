@@ -1,19 +1,19 @@
 modLoader="javafml"
-loaderVersion="[36,)"
+loaderVersion="[37,)"
 license="Academic Free License v3.0"
 
 [[mods]]
-modId="mud_mod"
+modId="mud_mod_beta"
 version="1.0.0"
-displayName="Mud Mod"
+displayName="Mud Mod BETA"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="lee, MCreator"
 
-[[dependencies.mud_mod]]
+[[dependencies.mud_mod_beta]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.5]"
+    versionRange="[1.17.1]"
     ordering="NONE"
     side="BOTH"
 
