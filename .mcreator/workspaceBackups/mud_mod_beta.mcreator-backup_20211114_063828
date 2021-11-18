@@ -1,0 +1,41 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Cool",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cool"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mud_mod_beta",
+    "modName": "Mud Mod BETA",
+    "version": "1.0.0",
+    "author": "lee, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.mudmodbeta",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100345419
+}
