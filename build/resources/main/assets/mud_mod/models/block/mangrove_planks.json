@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "mud_mod:blocks/mangrove_planks",
-    "particle": "mud_mod:blocks/mangrove_planks"
-  }
-}

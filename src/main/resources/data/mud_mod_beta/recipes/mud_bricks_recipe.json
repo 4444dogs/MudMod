@@ -1,0 +1,22 @@
+{
+  "group": "mud_mod_beta",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mud_mod_beta:mud_brick"
+    },
+    {
+      "item": "mud_mod_beta:mud_brick"
+    },
+    {
+      "item": "mud_mod_beta:mud_brick"
+    },
+    {
+      "item": "mud_mod_beta:mud_brick"
+    }
+  ],
+  "result": {
+    "item": "mud_mod_beta:mud_bricks",
+    "count": 1
+  }
+}

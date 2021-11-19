@@ -1,0 +1,13 @@
+{
+  "group": "mud_mod_beta",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mud_mod_beta:mangrove_log"
+    }
+  ],
+  "result": {
+    "item": "mud_mod_beta:mangrove_planks",
+    "count": 4
+  }
+}
