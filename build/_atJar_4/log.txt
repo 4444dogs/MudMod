@@ -1,0 +1,7 @@
+Java Launcher: C:\Users\lee\Desktop\Gaming\Minecraft\MCreator\Beta Versions\MCreatorEAP20213b49312\jdk\bin\java.exe
+Arguments: '--inJar, C:\Users\lee\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.17.1-37.1.0\forge-1.17.1-37.1.0-injected.jar, --outJar, C:\Users\lee\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.17.1-37.1.0_mapped_official_1.17.1\forge-1.17.1-37.1.0_mapped_official_1.17.1.jar, --logFile, accesstransform.log, --atFile, C:\Users\lee\Desktop\Gaming\Minecraft\Mods\MCreator Mods\mud_mod-beta\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\lee\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.5\accesstransformers-8.0.5-fatjar.jar
+Working directory: C:\Users\lee\Desktop\Gaming\Minecraft\Mods\MCreator Mods\mud_mod-beta\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

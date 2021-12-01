@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "mud_mod_beta:blocks/mangrove_planks",
+    "top": "mud_mod_beta:blocks/mangrove_planks"
+  }
+}

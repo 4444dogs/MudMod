@@ -1,0 +1,240 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Mud",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud"
+    },
+    {
+      "name": "MudBlob",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_blob"
+    },
+    {
+      "name": "MudRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_recipe"
+    },
+    {
+      "name": "MudBrick",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_brick"
+    },
+    {
+      "name": "MudBrickRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_brick_recipe"
+    },
+    {
+      "name": "MudBricks",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_bricks"
+    },
+    {
+      "name": "MudBricksRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_bricks_recipe"
+    },
+    {
+      "name": "MangroveLog",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_log"
+    },
+    {
+      "name": "MangroveLeaves",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_leaves"
+    },
+    {
+      "name": "MangrovePlanks",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_planks"
+    },
+    {
+      "name": "MangrovePlanksRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_planks_recipe"
+    },
+    {
+      "name": "MangrovePropagule",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_propagule"
+    },
+    {
+      "name": "MudAdvancement",
+      "type": "achievement",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_advancement"
+    },
+    {
+      "name": "MangroveSlab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_slab"
+    },
+    {
+      "name": "MangroveStairs",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_stairs"
+    },
+    {
+      "name": "MangroveFence",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_fence"
+    },
+    {
+      "name": "MangroveButton",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_button"
+    },
+    {
+      "name": "MangrovePressurePlate",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_pressure_plate"
+    },
+    {
+      "name": "MangroveDoor",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_door"
+    },
+    {
+      "name": "MangroveTrapdoor",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_trapdoor"
+    },
+    {
+      "name": "MangroveFenceGate",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mangrove_fence_gate"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.mud_mod_beta.mangrove_stairs": "Mangrove Stairs",
+      "advancements.mud_advancement.title": "Eww, gross!",
+      "block.mud_mod_beta.mangrove_pressure_plate": "Mangrove Pressure Plate",
+      "block.mud_mod_beta.mangrove_door": "Mangrove Door",
+      "block.mud_mod_beta.mud": "Mud",
+      "block.mud_mod_beta.mangrove_leaves": "Mangrove Leaves",
+      "block.mud_mod_beta.mangrove_propagule": "Mangrove Propagule",
+      "block.mud_mod_beta.mangrove_fence_gate": "Mangrove Fence Gate",
+      "item.mud_mod_beta.mud_blob": "Mud Blob",
+      "item.mud_mod_beta.mud_brick": "Mud Brick",
+      "block.mud_mod_beta.mangrove_log": "Mangrove Log",
+      "advancements.mud_advancement.descr": "Place Some Mud",
+      "block.mud_mod_beta.mangrove_slab": "Mangrove Slab",
+      "block.mud_mod_beta.mangrove_trapdoor": "Mangrove Trapdoor",
+      "block.mud_mod_beta.mangrove_planks": "Mangrove Planks",
+      "block.mud_mod_beta.mud_bricks": "Mud Bricks",
+      "block.mud_mod_beta.mangrove_button": "Mangrove Button",
+      "block.mud_mod_beta.mangrove_fence": "Mangrove Fence"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mud_mod_beta",
+    "modName": "Mud Mod BETA",
+    "version": "1.0.0",
+    "author": "lee, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.mudmodbeta",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100349312
+}
