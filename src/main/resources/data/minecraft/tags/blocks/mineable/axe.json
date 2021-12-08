@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mud_mod_beta:mangrove_log",
+    "mud_mod_beta:mangrove_slab",
+    "mud_mod_beta:mangrove_stairs",
+    "mud_mod_beta:mangrove_fence",
+    "mud_mod_beta:mangrove_button",
+    "mud_mod_beta:mangrove_pressure_plate",
+    "mud_mod_beta:mangrove_door",
+    "mud_mod_beta:mangrove_trapdoor",
+    "mud_mod_beta:mangrove_fence_gate"
+  ]
+}

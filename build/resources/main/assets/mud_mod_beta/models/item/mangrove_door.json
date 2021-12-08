@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mud_mod_beta:blocks/mangrove_planks"
+  }
+}
