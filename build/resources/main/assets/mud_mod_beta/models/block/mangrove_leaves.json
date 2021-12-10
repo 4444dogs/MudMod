@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mud_mod_beta:blocks/mangrove_leaves",
+    "particle": "mud_mod_beta:blocks/mangrove_leaves"
+  }
+}

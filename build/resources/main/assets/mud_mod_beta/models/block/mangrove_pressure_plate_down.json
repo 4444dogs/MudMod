@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "mud_mod_beta:blocks/mangrove_planks"
+  }
+}
