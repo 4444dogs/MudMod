@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "mud_mod_beta:blocks/mangrove_planks",
+    "particle": "mud_mod_beta:blocks/mangrove_planks"
+  }
+}

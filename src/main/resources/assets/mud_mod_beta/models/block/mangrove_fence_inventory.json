@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "mud_mod_beta:blocks/mangrove_planks",
+    "particle": "mud_mod_beta:blocks/mangrove_planks"
+  }
+}
