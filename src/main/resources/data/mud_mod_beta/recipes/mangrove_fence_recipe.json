@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "mud_mod_beta:mangrove_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "mud_mod_beta:mangrove_planks"
+    },
+    "3": {
+      "item": "mud_mod_beta:mangrove_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "mud_mod_beta:mangrove_planks"
+    }
+  },
+  "result": {
+    "item": "mud_mod_beta:mangrove_fence",
+    "count": 3
+  }
+}
