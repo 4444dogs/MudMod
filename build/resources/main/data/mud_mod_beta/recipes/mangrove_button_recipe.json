@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mud_mod_beta:mangrove_button"
+    }
+  ],
+  "result": {
+    "item": "mud_mod_beta:mangrove_button",
+    "count": 1
+  }
+}
