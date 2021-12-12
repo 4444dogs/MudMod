@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "mud_mod_beta:mangrove_planks"
+    },
+    "1": {
+      "item": "mud_mod_beta:mangrove_planks"
+    },
+    "2": {
+      "item": "mud_mod_beta:mangrove_planks"
+    }
+  },
+  "result": {
+    "item": "mud_mod_beta:mangrove_slab",
+    "count": 6
+  }
+}

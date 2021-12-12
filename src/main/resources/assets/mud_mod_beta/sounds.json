@@ -1,0 +1,29 @@
+{
+  "break.sculk": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mud_mod_beta:sculk_break1",
+        "stream": false
+      }
+    ]
+  },
+  "step.sculk": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mud_mod_beta:sculk_step1",
+        "stream": false
+      }
+    ]
+  },
+  "place.sculk": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mud_mod_beta:sculk_place1",
+        "stream": false
+      }
+    ]
+  }
+}
