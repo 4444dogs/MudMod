@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "mud_mod_beta:blocks/mangrove_planks",
+    "top": "mud_mod_beta:blocks/mangrove_planks",
+    "side": "mud_mod_beta:blocks/mangrove_planks"
+  }
+}

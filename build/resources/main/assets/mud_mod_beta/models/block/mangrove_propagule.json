@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mud_mod_beta:blocks/mangrove_propagule",
+    "particle": "mud_mod_beta:blocks/mangrove_propagule"
+  }
+}
