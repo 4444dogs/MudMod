@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "vine": "sculk_vein"
+      },
+      "name": "default"
+    }
+  }
+}
